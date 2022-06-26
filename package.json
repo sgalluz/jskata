@@ -1,0 +1,17 @@
+{
+  "name": "jskata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha -r jsdom-global/register 'src/**/*.spec.js'"
+  },
+  "author": "Stefano Galluzzi",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "jsdom": "20.0.0",
+    "jsdom-global": "3.0.2",
+    "mocha": "^10.0.0"
+  }
+}
