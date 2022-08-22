@@ -1,5 +1,5 @@
 # jskata
-My solutions of JS katas (from https://jskatas.org/)
+My solutions to some of JS katas (from https://jskatas.org/)
 
 ## How to install
 `npm i`
